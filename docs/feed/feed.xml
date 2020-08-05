@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Jose BG</title>
+	<subtitle>Personal page of Jose BG</subtitle>
+	
+	<link href="https://josebg.com/feed/feed.xml" rel="self"/>
+	<link href="https://josebg.com/"/>
+	<updated>2020-06-06T22:00:00+02:00</updated>
+	<id>https://josebg.com/</id>
+	<author>
+		<name>Jose BG</name>
+		<email>theypsilon@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>I Am</title>
+		<link href="https://josebg.com/projects/iam/"/>
+		<updated>2016-01-31T23:00:00+01:00</updated>
+		<id>https://josebg.com/projects/iam/</id>
+		<content type="html">&lt;p&gt;This is a puzzle game that I made with the team &amp;quot;Jackalope Power&amp;quot; during the Gameloft Game Jam of 2015. We won 1st price.&lt;/p&gt;
+&lt;p&gt;My role in the team was as the only programmer, and we worked during a weekend.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Mini ECS.</title>
+		<link href="https://josebg.com/projects/miniecs/"/>
+		<updated>2017-12-31T23:00:00+01:00</updated>
+		<id>https://josebg.com/projects/miniecs/</id>
+		<content type="html">&lt;p&gt;Minimalistic ECS framework for C#&lt;/p&gt;
+&lt;p&gt;I used it in &lt;a href=&quot;http://localhost:8080/projects/wwix/&quot;&gt;World War IX&lt;/a&gt;, in a time where old component system was very limiting.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/theypsilon/MiniECS/&quot;&gt;Github repository here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;technical-details&quot;&gt;Technical Details &lt;a class=&quot;direct-link&quot; href=&quot;#technical-details&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;It is very easy to use, as it doesn&#39;t require code generation, and it&#39;s a fairly small library.&lt;/p&gt;
+&lt;p&gt;I optimized it for speed and to avoid any in-game memory allocation. It runs much faster than the Pre-DOTS Unity Component System in a large variety of benchmarks I performed, and it gives you much more control over the frame execution.&lt;/p&gt;
+&lt;p&gt;The drawback is that is a bit verbose.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Evo Learning</title>
+		<link href="https://josebg.com/projects/evolearning/"/>
+		<updated>2018-01-14T23:00:00+01:00</updated>
+		<id>https://josebg.com/projects/evolearning/</id>
+		<content type="html">&lt;p&gt;Reinforcement Learning library for C#&lt;/p&gt;
+&lt;p&gt;I used it in &lt;a href=&quot;http://localhost:8080/projects/wwix/&quot;&gt;World War IX&lt;/a&gt; for implementing an AI that would test the game all by itself.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/theypsilon/EvoLearning/&quot;&gt;Github repository here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;technical-details&quot;&gt;Technical Details &lt;a class=&quot;direct-link&quot; href=&quot;#technical-details&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;It uses a very simple implemeantion of feedforward neural networks that I implemented from scratch. It evolves by applying some evolutionary algorithms depending on the choosed fitness function.&lt;/p&gt;
+&lt;p&gt;It was a fun project that I did to put in practice some of the deep learning things I was studying. It is not meant to be used in production code in this stage.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>World War IX</title>
+		<link href="https://josebg.com/projects/wwix/"/>
+		<updated>2018-01-31T23:00:00+01:00</updated>
+		<id>https://josebg.com/projects/wwix/</id>
+		<content type="html">&lt;p&gt;This is a Shmup game for Mobile devices. It&#39;s unreleased at this moment.&lt;/p&gt;
+&lt;p&gt;I designed the gameplay and did all the coding using Unity3D as a game engine.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Pig_Saint&quot;&gt;Pig Saint&lt;/a&gt; made the graphics and lore.&lt;/p&gt;
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay &lt;a class=&quot;direct-link&quot; href=&quot;#gameplay&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Press/click the screen to unpause the game.&lt;/p&gt;
+&lt;p&gt;It has a very simple left-right movement.&lt;/p&gt;
+&lt;p&gt;Auto-shoots when an enemy is on screen.&lt;/p&gt;
+&lt;p&gt;Levels are procedurally generated.&lt;/p&gt;
+&lt;p&gt;Enter in fever mode after killing 5 special enemies.&lt;/p&gt;
+&lt;p&gt;Explosions that result from enemies being killed may damage other enemies.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Display Sim</title>
+		<link href="https://josebg.com/projects/displaysim/"/>
+		<updated>2018-12-31T23:00:00+01:00</updated>
+		<id>https://josebg.com/projects/displaysim/</id>
+		<content type="html">&lt;p&gt;This tool allows you to recreate CRT displays of many kinds. It&#39;s still on early development, and requires a good graphic card, because the generated filters make sense on resolutions equal or higher than 4K, and each prixel is processed individually.&lt;/p&gt;
+&lt;p&gt;The backend is implemented in Rust language compiled to WebASM and using WebGL.&lt;/p&gt;
+&lt;p&gt;The fronted is pure Vanilla JS using a minimalistic view rendering aproach.&lt;/p&gt;
+&lt;h2 id=&quot;relevant-links&quot;&gt;Relevant Links &lt;a class=&quot;direct-link&quot; href=&quot;#relevant-links&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Repository: &lt;a href=&quot;https://github.com/theypsilon/display-sim&quot;&gt;https://github.com/theypsilon/display-sim&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Demo (high GPU usage): &lt;a href=&quot;https://theypsilon.github.io/display-sim/&quot;&gt;https://theypsilon.github.io/display-sim/&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Update All</title>
+		<link href="https://josebg.com/projects/updateall/"/>
+		<updated>2020-06-06T22:00:00+02:00</updated>
+		<id>https://josebg.com/projects/updateall/</id>
+		<content type="html">&lt;p&gt;This is an All-in-one script made in pure &lt;code&gt;bash&lt;/code&gt; for installing and updating cores in your &lt;a href=&quot;https://github.com/MiSTer-devel/Main_MiSTer/wiki&quot;&gt;MiSTer FPGA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Get it from &lt;a href=&quot;https://github.com/theypsilon/Update_All_MiSTer&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;support&quot;&gt;Support &lt;a class=&quot;direct-link&quot; href=&quot;#support&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;For questions and support about &lt;em&gt;Update All&lt;/em&gt;, please access &lt;a href=&quot;https://discord.com/invite/wcVhf5M&quot;&gt;this discord server&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+</feed>
