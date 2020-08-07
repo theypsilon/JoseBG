@@ -30,7 +30,7 @@
       "id": "https://josebg.com/projects/wwix/",
       "url": "https://josebg.com/projects/wwix/",
       "title": "World War IX",
-      "content_html": "<p>This is a Shmup game for Mobile devices. It's unreleased at this moment.</p>\n<p>I designed the gameplay and did all the coding using Unity3D as a game engine.</p>\n<p><em>Video soon</em></p>\n<p><a href=\"https://twitter.com/Pig_Saint\">Pig Saint</a> made the graphics and lore.</p>\n<h2 id=\"gameplay\">Gameplay <a class=\"direct-link\" href=\"#gameplay\">#</a></h2>\n<p>Press/click the screen to unpause the game.</p>\n<p>It has a very simple left-right movement.</p>\n<p>Auto-shoots when an enemy is on screen.</p>\n<p>Levels are procedurally generated.</p>\n<p>Enter in fever mode after killing 5 special enemies.</p>\n<p>Explosions that result from enemies being killed may damage other enemies.</p>\n",
+      "content_html": "<p>This is a Shmup game for Mobile devices. It's unreleased at this moment.</p>\n<p>I designed the gameplay and did all the coding using Unity3D as a game engine.</p>\n<p><em>Video soon</em></p>\n<p><a href=\"https://twitter.com/Pig_Saint\">Pig Saint</a> made the graphics and lore.</p>\n<h2 id=\"gameplay\">Gameplay <a class=\"direct-link\" href=\"#gameplay\">#</a></h2>\n<p>Press/click the screen to unpause the game.</p>\n<p>It has a very simple left-right movement.</p>\n<p>Auto-shoots when an enemy is on screen.</p>\n<p>Levels are procedurally generated.</p>\n<p>Enter in fever mode after killing 5 special enemies.</p>\n<p>Explosions that result from enemies being killed may damage other enemies.+</p>\n",
       "date_published": "2018-01-31T23:00:00+01:00"
     },{
       "id": "https://josebg.com/projects/displaysim/",
@@ -42,7 +42,7 @@
       "id": "https://josebg.com/projects/updateall/",
       "url": "https://josebg.com/projects/updateall/",
       "title": "Update All",
-      "content_html": "<p>This is an All-in-one script made in pure <code>bash</code> for installing and updating cores in your <a href=\"https://github.com/MiSTer-devel/Main_MiSTer/wiki\">MiSTer FPGA</a></p>\n<p><img src=\"/img/updateall.jpg\" alt=\"Update All 1.2 Capture\"></p>\n<p>Get it from <a href=\"https://github.com/theypsilon/Update_All_MiSTer\">here</a>.</p>\n<h2 id=\"support\">Support <a class=\"direct-link\" href=\"#support\">#</a></h2>\n<p>For questions and support about <em>Update All</em>, please access <a href=\"https://discord.com/invite/wcVhf5M\">this discord server</a>.</p>\n",
+      "content_html": "<p>This is an All-in-one script made in pure <code>bash</code> for installing and updating cores in your <a href=\"https://github.com/MiSTer-devel/Main_MiSTer/wiki\">MiSTer FPGA</a></p>\n<p><img src=\"/img/updateall.jpg\" alt=\"Update All 1.2 Capture\"></p>\n<p>Get it from <a href=\"https://github.com/theypsilon/Update_All_MiSTer\">here</a>.</p>\n<h2 id=\"support\">Support <a class=\"direct-link\" href=\"#support\">#</a></h2>\n<p>For questions and support about <em>Update All</em>, please access <a href=\"https://discord.com/invite/wcVhf5M\">this discord server</a>.</p>\n<h2 id=\"tutorial-video\">Tutorial Video <a class=\"direct-link\" href=\"#tutorial-video\">#</a></h2>\n  <iframe width=\"560\" height=\"315\"\nsrc=\"https://www.youtube.com/embed/Nrt5pjuSrrg\" \nframeborder=\"0\" \nallow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" \nallowfullscreen></iframe>",
       "date_published": "2020-06-06T22:00:00+02:00"
     }
   ]

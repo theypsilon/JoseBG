@@ -28,4 +28,6 @@ Levels are procedurally generated.
 
 Enter in fever mode after killing 5 special enemies.
 
-Explosions that result from enemies being killed may damage other enemies.
+Explosions that result from enemies being killed may damage other enemies.+
+
+
