@@ -9,7 +9,9 @@ layout: layouts/project.njk
 ---
 This is a Shmup game for Mobile devices. It's unreleased at this moment.
 
-I designed the gameplay and did all the coding using Unity3D as a game engine. 
+I designed the gameplay and did all the coding using Unity3D as a game engine.
+
+*Video soon*
 
 [Pig Saint](https://twitter.com/Pig_Saint) made the graphics and lore.
 
