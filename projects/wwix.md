@@ -11,7 +11,11 @@ This is a Shmup game for Mobile devices. It's unreleased at this moment.
 
 I designed the gameplay and did all the coding using Unity3D as a game engine.
 
-*Video soon*
+  <iframe width="560" height="315"
+src="https://www.youtube.com/embed/QGsojpTb748" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 [Pig Saint](https://twitter.com/Pig_Saint) made the graphics and lore.
 
