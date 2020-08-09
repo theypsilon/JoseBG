@@ -9,10 +9,10 @@ layout: layouts/project.njk
 ---
 Minimalistic ECS framework for C#
 
-I used it in [World War IX](http://localhost:8080/projects/wwix/), in a time where old component system was very limiting.
+I used it in [World War IX](/projects/wwix/), in a time where old component system was very limiting.
 
   <iframe width="560" height="315"
-src="https://www.youtube.com/embed/QGsojpTb748?start=361" 
+src="https://www.youtube.com/embed/-wBPm1bs3Fc?start=361" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>

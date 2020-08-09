@@ -12,7 +12,7 @@ This is a Shmup game for Mobile devices. It's unreleased at this moment.
 I designed the gameplay and did all the coding using Unity3D as a game engine.
 
   <iframe width="560" height="315"
-src="https://www.youtube.com/embed/QGsojpTb748" 
+src="https://www.youtube.com/embed/-wBPm1bs3Fc" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>

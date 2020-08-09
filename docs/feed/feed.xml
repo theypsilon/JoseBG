@@ -30,8 +30,8 @@
 		<updated>2017-12-31T23:00:00+01:00</updated>
 		<id>https://josebg.com/projects/miniecs/</id>
 		<content type="html">&lt;p&gt;Minimalistic ECS framework for C#&lt;/p&gt;
-&lt;p&gt;I used it in &lt;a href=&quot;http://localhost:8080/projects/wwix/&quot;&gt;World War IX&lt;/a&gt;, in a time where old component system was very limiting.&lt;/p&gt;
-  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QGsojpTb748?start=361&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;I used it in &lt;a href=&quot;https://josebg.com/projects/wwix/&quot;&gt;World War IX&lt;/a&gt;, in a time where old component system was very limiting.&lt;/p&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-wBPm1bs3Fc?start=361&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/theypsilon/MiniECS/&quot;&gt;Github repository here&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;technical-details&quot;&gt;Technical Details &lt;a class=&quot;direct-link&quot; href=&quot;#technical-details&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;It is very easy to use, as it doesn&#39;t require code generation, and it&#39;s a fairly small library.&lt;/p&gt;
@@ -47,7 +47,7 @@
 		<id>https://josebg.com/projects/evolearning/</id>
 		<content type="html">&lt;p&gt;Reinforcement Learning library for C#&lt;/p&gt;
 &lt;p&gt;I used it in &lt;a href=&quot;https://josebg.com/projects/wwix/&quot;&gt;World War IX&lt;/a&gt; for implementing an AI that would test the game all by itself.&lt;/p&gt;
-  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QGsojpTb748?start=256&amp;end=297&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-wBPm1bs3Fc?start=256&amp;end=297&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/theypsilon/EvoLearning/&quot;&gt;Github repository here&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;technical-details&quot;&gt;Technical Details &lt;a class=&quot;direct-link&quot; href=&quot;#technical-details&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;It uses a very simple implemeantion of feedforward neural networks that I implemented from scratch. It evolves by applying some evolutionary algorithms depending on the choosed fitness function.&lt;/p&gt;
@@ -62,7 +62,7 @@
 		<id>https://josebg.com/projects/wwix/</id>
 		<content type="html">&lt;p&gt;This is a Shmup game for Mobile devices. It&#39;s unreleased at this moment.&lt;/p&gt;
 &lt;p&gt;I designed the gameplay and did all the coding using Unity3D as a game engine.&lt;/p&gt;
-  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QGsojpTb748&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-wBPm1bs3Fc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Pig_Saint&quot;&gt;Pig Saint&lt;/a&gt; made the graphics and lore.&lt;/p&gt;
 &lt;h2 id=&quot;gameplay&quot;&gt;Gameplay &lt;a class=&quot;direct-link&quot; href=&quot;#gameplay&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Press/click the screen to unpause the game.&lt;/p&gt;
