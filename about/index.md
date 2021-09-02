@@ -1,11 +1,12 @@
 ---
-layout: layouts/project.njk
-title: About Me
+layout: layouts/home.njk
 templateClass: tmpl-post
 eleventyNavigation:
   key: About Me
   order: 3
 ---
+
+<h1>About Me</h1>
 
 My name is José Manuel Barroso Galindo, and I'm a software engineer.
 

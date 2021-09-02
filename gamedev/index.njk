@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Gamedev
+  order: 2
+---
+
+<h1>Recent Projects</h1>
+
+{% set projectslist = collections.projects | reverse %}
+{% set projectslistCounter = collections.projects | length %}
+{% include "projectslist.njk" %}
