@@ -225,7 +225,16 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 .tmpl-home {width: 100%; height: 100%;}
-.row-container {display: flex; width: 100%; height: 100%; flex-direction: column; background-color: blue; overflow: hidden;}
+.row-container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(238, 233, 223);
+  overflow: hidden; 
+  height:100%;
+  width:100%;
+  position: relative;
+  top: -22px;
+}
 .first-row {background-color: lime; }
 .second-row { flex-grow: 1; border: none; margin: 0; padding: 0; }
 * {
