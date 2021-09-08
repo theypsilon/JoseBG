@@ -42,21 +42,6 @@
   </url>
   
   <url>
-    <loc>https://josebg.com/tags/Unity%203D/</loc>
-    <lastmod>2021-09-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://josebg.com/tags/Deep%20Learning/</loc>
-    <lastmod>2021-09-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://josebg.com/tags/Game/</loc>
-    <lastmod>2021-09-02</lastmod>
-  </url>
-  
-  <url>
     <loc>https://josebg.com/tags/3D%20simulation/</loc>
     <lastmod>2021-09-02</lastmod>
   </url>
@@ -67,7 +52,17 @@
   </url>
   
   <url>
-    <loc>https://josebg.com/tags/MiSTer%20FPGA/</loc>
+    <loc>https://josebg.com/tags/Game/</loc>
+    <lastmod>2021-09-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josebg.com/tags/Unity%203D/</loc>
+    <lastmod>2021-09-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josebg.com/tags/Deep%20Learning/</loc>
     <lastmod>2021-09-02</lastmod>
   </url>
   
@@ -77,17 +72,22 @@
   </url>
   
   <url>
+    <loc>https://josebg.com/tags/MiSTer%20FPGA/</loc>
+    <lastmod>2021-09-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://josebg.com/gamedev/</loc>
     <lastmod>2021-09-02</lastmod>
   </url>
   
   <url>
-    <loc>https://josebg.com/about/</loc>
-    <lastmod>2021-09-02</lastmod>
+    <loc>https://josebg.com/</loc>
+    <lastmod>2021-09-07</lastmod>
   </url>
   
   <url>
-    <loc>https://josebg.com/</loc>
+    <loc>https://josebg.com/about/</loc>
     <lastmod>2021-09-07</lastmod>
   </url>
 </urlset>
